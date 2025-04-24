@@ -1,4 +1,4 @@
-# Next.js Blog Demo
+# Next.js Blog Dynamic Routes and 404 Pages
 
 This project demonstrates proper handling of dynamic routes and 404 pages in Next.js App Router.
 
